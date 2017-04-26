@@ -1,0 +1,89 @@
+/*
+  Localizable.strings
+  WWDC
+
+  Created by Maxim Eremenko on 3/26/17.
+  Copyright © 2017 Maxim Eremenko. All rights reserved.
+*/
+
+
+// General
+
+"general.ok" = "OK";
+
+
+// Intro
+
+"intro.info.label.text" = "Welcome! You'll learn a great story in a couple of seconds. There will be various tasks you'll need to solve. Your iOS skills might be very handy. Are you ready?";
+
+"intro.action.button.title" = "I`m ready!";
+
+
+// Dream
+
+"dream.info.label.title" = "It happened one night. Our hero was dreaming and saw the programming world. It was so exciting to change people's lives.\nAnd our hero decided to become an iOS developer.";
+"dream.action.button.title" = "Let's go!";
+
+
+// Username
+
+"username.info.label.title" = "Select the name of your hero!";
+
+"username.left.button.title" = "Bill";
+"username.center.button.title" = "Steve";
+"username.right.button.title" = "Ada";
+
+
+// Alarm
+
+"alarm.title.prefix" = "Wake up";
+"alarm.title.sufix" = "It is time to make your dream happen.";
+"alarm.info.label.title" = "Turn off all alarms.";
+
+
+// Tech
+
+"tech.title.label.text" = "Hurry up!\n\nSelect all technologies you'll need to learn.";
+"tech.results.label.text" = "Good choice! :)";
+
+// Exam
+
+"exam.info.label.title" = "choose your programming language.\nFind Swift code!";
+"exam.action.button.title" = "That is Swift!";
+"exam.success.answer.title" = "Great!";
+"exam.fail.answer.title" = "Are you sure?";
+
+
+// Letter
+
+"letter.info.label.title" =
+
+"Thank you for taking part in our Scolarship program and submitting your playground. We are happy to invite you to join us at WWDC this year. Pack your luggage and see you soon in San Jose!";
+
+"letter.action.button.title" = "Go";
+"letter.title.prefix" = "Dear";
+
+
+// Final
+
+"final.profile.button.title" = "My Profile";
+
+"final.info.label.title" = "High five! You made it even faster than I expected! It looks the game was too easy for you. I'll be happy to meet you in person in San Jose to hear your feedback :)";
+
+
+// Profile
+
+
+"profile.username.label.title" = "Maxim Eremenko";
+
+"profile.info.label.title" = "I am a student and iOS developer with over 3 years of experience. My key tech stack includes Objective C, Swift, C, C++.\nI created my first iOS app School assistant when I was 17. Since that moment, I have built a number of iOS apps and have experience of mobile apps creation from idea to publishing to the AppStore and its support.";
+
+"profile.middle.info.label.title" = "About this App\n\nThis app tells a small story about one guy who decided to become a developer. My hero needed to solve several tasks to reach his goal. In the end of the game he was rewarded by an invitation to attend WWDC.\n\nMany of us may become great software developers. But they need a small help to start. It is very important to show them the programming world in a fun and interactive way. I believe it is the best way to infect others with software development. This app is exactly about it.\n\ndevMEremenko@gmail.com";
+
+"profile.again.button.title" = "Play Again";
+
+
+// Alert
+
+"alert.empty.username.title" = "Sorry";
+"alert.empty.username.message" = "Remember you name, please :)";
