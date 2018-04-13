@@ -7,7 +7,7 @@ The full list of projects is [here](https://github.com/wwdc/2017)
 ## **About this app**</br>
 This app tells a story about one guy who decided to become a developer. </br>
 My hero needed to solve a few tasks to reach his goal.</br> 
-In the end of the game he was rewarded by an invitation to attend **WWDC**.
+At the end of the game, he was rewarded by an invitation to attend **WWDC**.
 
 Watch the video below to see the app in action:
 
